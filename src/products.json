@@ -1,0 +1,23 @@
+[
+    {
+      "id": 1,
+      "name": "Air Jordan 4 (oilgreen)",
+      "price": 520,
+      "image": "/images/product1.jpg",
+      "description": "This is product 1"
+    },
+    {
+      "id": 2,
+      "name": "Air Jordan Retro 5",
+      "price": 600,
+      "image": "/images/product2.jpg",
+      "description": "This is product 2"
+    },
+    {
+      "id": 3,
+      "name": "Jordan MVP (white/beige)",
+      "price": 650,
+      "image": "/images/product3.jpg",
+      "description": "This is product 3"
+    }
+  ]
